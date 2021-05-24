@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Hamis/static/css/main.2fa7d435.chunk.css",
-    "main.js": "/Hamis/static/js/main.af221e6d.chunk.js",
-    "main.js.map": "/Hamis/static/js/main.af221e6d.chunk.js.map",
+    "main.css": "/Hamis/static/css/main.8ed69a26.chunk.css",
+    "main.js": "/Hamis/static/js/main.5a6ce6f4.chunk.js",
+    "main.js.map": "/Hamis/static/js/main.5a6ce6f4.chunk.js.map",
     "runtime-main.js": "/Hamis/static/js/runtime-main.81a0a094.js",
     "runtime-main.js.map": "/Hamis/static/js/runtime-main.81a0a094.js.map",
     "static/js/2.307afd4b.chunk.js": "/Hamis/static/js/2.307afd4b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a2d76591.chunk.js": "/Hamis/static/js/3.a2d76591.chunk.js",
     "static/js/3.a2d76591.chunk.js.map": "/Hamis/static/js/3.a2d76591.chunk.js.map",
     "index.html": "/Hamis/index.html",
-    "static/css/main.2fa7d435.chunk.css.map": "/Hamis/static/css/main.2fa7d435.chunk.css.map",
+    "static/css/main.8ed69a26.chunk.css.map": "/Hamis/static/css/main.8ed69a26.chunk.css.map",
     "static/js/2.307afd4b.chunk.js.LICENSE.txt": "/Hamis/static/js/2.307afd4b.chunk.js.LICENSE.txt",
     "static/media/Aparell.2b56b9ad.jpg": "/Hamis/static/media/Aparell.2b56b9ad.jpg",
     "static/media/Barbell.757e4144.JPG": "/Hamis/static/media/Barbell.757e4144.JPG",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.81a0a094.js",
     "static/js/2.307afd4b.chunk.js",
-    "static/css/main.2fa7d435.chunk.css",
-    "static/js/main.af221e6d.chunk.js"
+    "static/css/main.8ed69a26.chunk.css",
+    "static/js/main.5a6ce6f4.chunk.js"
   ]
 }
