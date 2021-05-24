@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Hamis/static/css/main.2fa7d435.chunk.css",
+    "main.js": "/Hamis/static/js/main.af221e6d.chunk.js",
+    "main.js.map": "/Hamis/static/js/main.af221e6d.chunk.js.map",
+    "runtime-main.js": "/Hamis/static/js/runtime-main.81a0a094.js",
+    "runtime-main.js.map": "/Hamis/static/js/runtime-main.81a0a094.js.map",
+    "static/js/2.307afd4b.chunk.js": "/Hamis/static/js/2.307afd4b.chunk.js",
+    "static/js/2.307afd4b.chunk.js.map": "/Hamis/static/js/2.307afd4b.chunk.js.map",
+    "static/js/3.a2d76591.chunk.js": "/Hamis/static/js/3.a2d76591.chunk.js",
+    "static/js/3.a2d76591.chunk.js.map": "/Hamis/static/js/3.a2d76591.chunk.js.map",
+    "index.html": "/Hamis/index.html",
+    "static/css/main.2fa7d435.chunk.css.map": "/Hamis/static/css/main.2fa7d435.chunk.css.map",
+    "static/js/2.307afd4b.chunk.js.LICENSE.txt": "/Hamis/static/js/2.307afd4b.chunk.js.LICENSE.txt",
+    "static/media/Aparell.2b56b9ad.jpg": "/Hamis/static/media/Aparell.2b56b9ad.jpg",
+    "static/media/Barbell.757e4144.JPG": "/Hamis/static/media/Barbell.757e4144.JPG",
+    "static/media/index.css": "/Hamis/static/media/Wickets.eb530bff.jpg",
+    "static/media/Cricket.613aaa52.webp": "/Hamis/static/media/Cricket.613aaa52.webp",
+    "static/media/Equipment.992e5409.jpg": "/Hamis/static/media/Equipment.992e5409.jpg",
+    "static/media/Football.89471877.webp": "/Hamis/static/media/Football.89471877.webp",
+    "static/media/Gym.55212af3.webp": "/Hamis/static/media/Gym.55212af3.webp",
+    "static/media/LogoBlack.cc8f4419.png": "/Hamis/static/media/LogoBlack.cc8f4419.png",
+    "static/media/Shoes.db096b45.webp": "/Hamis/static/media/Shoes.db096b45.webp",
+    "static/media/VolleyBall.055c7941.webp": "/Hamis/static/media/VolleyBall.055c7941.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a0a094.js",
+    "static/js/2.307afd4b.chunk.js",
+    "static/css/main.2fa7d435.chunk.css",
+    "static/js/main.af221e6d.chunk.js"
+  ]
+}
