@@ -1,11 +1,8 @@
 import React from "react";
 export default function Nav() {
     const OpenMenu = () => {
-        var Body = document.querySelector(".App");
-        Body.style.transform = "translateX(90%)";
-        if (window.innerWidth > 768) {
-            Body.style.transform = "translateX(30%)";
-        }
+        var Menu = document.getElementById("sideBar");
+        Menu.style.transform = "translateX(0%)";
     };
     return (
         <section id="nav">

@@ -3,13 +3,11 @@
     padding: 0;
 }
 body {
-    height: 100vh;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
         "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
         "Helvetica Neue", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    overflow-x: hidden;
 }
 #root,
 .App {
@@ -19,6 +17,7 @@ body {
 /* Home */
 .App {
     display: grid;
+    max-width: 100%;
     grid-template-rows: 4rem 1fr auto;
     grid-template-columns: 1fr;
     grid-template-areas: "Navbar" "Content" "Footer";
@@ -54,7 +53,7 @@ body {
     font-family: Helvetica, sans-serif;
 }
 #sideBar {
-    height: 100vh;
+    height: 100%;
     width: 90%;
     background: #fff;
     top: 0%;
@@ -239,7 +238,6 @@ h3 {
     padding: 1rem;
 }
 #Catagory h1 {
-    background: crimson;
     text-align: center;
     font-size: 2rem;
     padding: 0.5rem 0.25rem;
@@ -252,6 +250,7 @@ h3 {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
+    background: #aaa;
 }
 
 #FootBallCard {
